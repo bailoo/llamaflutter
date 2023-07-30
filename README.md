@@ -6,9 +6,14 @@ https://docs.flutter.dev/platform-integration/android/c-interop
 
 # Compile plugin
 flutter pub run ffigen --config ffigen.yaml
-# native_add
 
-A new Flutter FFI plugin project.
+# TODO
+* Send output to main thread instead of printf to debug console
+* Allow for prompt
+* Experiment with better model for dialog generation
+* Characters and story telling
+* Games
+
 
 ## Getting Started
 
