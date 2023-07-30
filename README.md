@@ -1,8 +1,8 @@
 # llamaflutter
 llama2.c made available in Flutter via a Dart FFI Plugin
 
-Refer
+# Refer
 https://docs.flutter.dev/platform-integration/android/c-interop
 
-Compiler plugin
+# Compile plugin
 flutter pub run ffigen --config ffigen.yaml
